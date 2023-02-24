@@ -8,12 +8,12 @@ public class atividade4 {
 		Scanner sc = new Scanner (System.in);
 		
 		System.out.println("Digite a altura do retangulo");
-		double numero = sc.nextDouble();
+		double altura = sc.nextDouble();
 		
 		System.out.println("Digite base do retangulo");
-		double numero2 = sc.nextDouble();
+		double base = sc.nextDouble();
 		
-		System.out.println("A area do perimetro e :" + numero * numero2 );
+		System.out.println("A area do perimetro e :" + altura * base );
 
 	}
 

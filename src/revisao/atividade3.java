@@ -10,6 +10,7 @@ public class atividade3 {
 		System.out.println("Digite um numero inteiro");
 		int numero = sc.nextInt();
 		
+		sc.nextLine();
 		System.out.println("Digite alguma coisa");
 		String frase = sc.nextLine();
 		
